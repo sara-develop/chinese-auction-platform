@@ -2,11 +2,14 @@
 {
     public class Ticket
     {
-        public string Id { get; set; }
-        public User User { get; set; }
-        public string UserId { get; set; }
+        public int Id { get; set; }
+
+        public int PrizeId { get; set; }
+        public int UserId { get; set; }
+
         public Prize Prize { get; set; }
-        public string PrizeId { get; set; } 
-        public DateTime DateTime { get; set; }
+        public User User { get; set; }
+
+        public DateTime PurchaseDate { get; set; } = DateTime.Now;
     }
 }
