@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Models"
+    "\\Models",
+    "\\Models\\DTO"
   ],
-  "SelectedNode": "\\Models\\DTO",
+  "SelectedNode": "\\Models\\DTO\\CategoryDTO.cs",
   "PreviewInSolutionExplorer": false
 }
