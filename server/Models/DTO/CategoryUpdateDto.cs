@@ -2,9 +2,8 @@
 
 public class CategoryUpdateDto
 {
-	public CategoryUpdateDto()
-	{
-		public string Name { get; set; }
-		public List<Prize> Prizes { get; set; }
-	}
+    [Required]
+    public string Name { get; set; }
+
+	public List<int> PrizesId { get; set; }	
 }

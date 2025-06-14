@@ -10,5 +10,5 @@ public class PrizeGetDto
     public string Name { get; set; }
     public int Price { get; set; }
 
-    public List<Ticket> Tickets { get; set; } = new();
+    public List<TicketGetDto> Tickets { get; set; } = new();
 }

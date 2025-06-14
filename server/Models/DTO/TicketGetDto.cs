@@ -5,6 +5,8 @@ public class TicketGetDto
     public int Id { get; set; }
     public DateTime PurchaseDate { get; set; }
 
+    public bool IsDraft { get; set; }
+
     // פרטי המתנה
     public int PrizeId { get; set; }
     public string PrizeName { get; set; }

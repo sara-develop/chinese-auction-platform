@@ -4,6 +4,6 @@
     "\\Models",
     "\\Models\\DTO"
   ],
-  "SelectedNode": "\\Models\\DTO",
+  "SelectedNode": "\\Models\\DTO\\CategoryUpdateDto.cs",
   "PreviewInSolutionExplorer": false
 }
