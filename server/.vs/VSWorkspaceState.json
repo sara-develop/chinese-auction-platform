@@ -1,9 +1,6 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\Models",
-    "\\Models\\DTO"
+    "\\Models"
   ],
-  "SelectedNode": "\\Models\\DTO\\CategoryUpdateDto.cs",
   "PreviewInSolutionExplorer": false
 }

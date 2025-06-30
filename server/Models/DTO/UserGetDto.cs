@@ -1,4 +1,6 @@
 ﻿using System;
+using WebAPI_project.Models;
+
 
 public class UserGetDto
 {

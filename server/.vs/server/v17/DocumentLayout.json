@@ -3,88 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\DTO\\CategoryCreateDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\DTO\\CategoryCreateDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\DTO\\CategoryUpdateDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\DTO\\CategoryUpdateDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\DTO\\DonorUpdateDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\DTO\\DonorUpdateDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\DTO\\DonorCreateDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\DTO\\DonorCreateDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\DTO\\DonorGetDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\DTO\\DonorGetDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\DTO\\PrizeGetDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\DTO\\PrizeGetDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\DTO\\PrizeCreateDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\DTO\\PrizeCreateDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\DTO\\TicketCreateDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\DTO\\TicketCreateDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\DTO\\UserGetDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\DTO\\UserGetDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\DTO\\UserUpdateDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\DTO\\UserUpdateDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\DTO\\UserCreateDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\DTO\\UserCreateDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\DTO\\CategoryWithPrizesDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\DTO\\CategoryWithPrizesDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\DTO\\CategoryGetDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\DTO\\CategoryGetDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\DTO\\PrizeUpdateDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\DTO\\PrizeUpdateDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\DTO\\PrizeGetPurchasersDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\DTO\\PrizeGetPurchasersDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\DTO\\TicketGetDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\DTO\\TicketGetDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\Ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\Prize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Prize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\AutoMapperProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AutoMapperProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\Category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\Donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\DTO\\CategoryCreateDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\DTO\\CategoryCreateDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -94,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 210,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -102,275 +30,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "CategoryCreateDto.cs",
               "DocumentMoniker": "C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\DTO\\CategoryCreateDto.cs",
               "RelativeDocumentMoniker": "Models\\DTO\\CategoryCreateDto.cs",
               "ToolTip": "C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\DTO\\CategoryCreateDto.cs",
               "RelativeToolTip": "Models\\DTO\\CategoryCreateDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T19:43:05.793Z",
+              "WhenOpened": "2025-06-30T17:14:19.234Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CategoryUpdateDto.cs",
-              "DocumentMoniker": "C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\DTO\\CategoryUpdateDto.cs",
-              "RelativeDocumentMoniker": "Models\\DTO\\CategoryUpdateDto.cs",
-              "ToolTip": "C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\DTO\\CategoryUpdateDto.cs",
-              "RelativeToolTip": "Models\\DTO\\CategoryUpdateDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T19:47:32.705Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DonorUpdateDto.cs",
-              "DocumentMoniker": "C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\DTO\\DonorUpdateDto.cs",
-              "RelativeDocumentMoniker": "Models\\DTO\\DonorUpdateDto.cs",
-              "ToolTip": "C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\DTO\\DonorUpdateDto.cs",
-              "RelativeToolTip": "Models\\DTO\\DonorUpdateDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T19:44:17.159Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DonorCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\DTO\\DonorCreateDto.cs",
-              "RelativeDocumentMoniker": "Models\\DTO\\DonorCreateDto.cs",
-              "ToolTip": "C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\DTO\\DonorCreateDto.cs",
-              "RelativeToolTip": "Models\\DTO\\DonorCreateDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T19:43:21.645Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DonorGetDto.cs",
-              "DocumentMoniker": "C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\DTO\\DonorGetDto.cs",
-              "RelativeDocumentMoniker": "Models\\DTO\\DonorGetDto.cs",
-              "ToolTip": "C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\DTO\\DonorGetDto.cs",
-              "RelativeToolTip": "Models\\DTO\\DonorGetDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T19:44:14.219Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PrizeGetDto.cs",
-              "DocumentMoniker": "C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\DTO\\PrizeGetDto.cs",
-              "RelativeDocumentMoniker": "Models\\DTO\\PrizeGetDto.cs",
-              "ToolTip": "C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\DTO\\PrizeGetDto.cs",
-              "RelativeToolTip": "Models\\DTO\\PrizeGetDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T19:38:14.553Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PrizeCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\DTO\\PrizeCreateDto.cs",
-              "RelativeDocumentMoniker": "Models\\DTO\\PrizeCreateDto.cs",
-              "ToolTip": "C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\DTO\\PrizeCreateDto.cs",
-              "RelativeToolTip": "Models\\DTO\\PrizeCreateDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T19:38:11.322Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TicketCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\DTO\\TicketCreateDto.cs",
-              "RelativeDocumentMoniker": "Models\\DTO\\TicketCreateDto.cs",
-              "ToolTip": "C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\DTO\\TicketCreateDto.cs",
-              "RelativeToolTip": "Models\\DTO\\TicketCreateDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T19:35:39.367Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UserGetDto.cs",
-              "DocumentMoniker": "C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\DTO\\UserGetDto.cs",
-              "RelativeDocumentMoniker": "Models\\DTO\\UserGetDto.cs",
-              "ToolTip": "C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\DTO\\UserGetDto.cs",
-              "RelativeToolTip": "Models\\DTO\\UserGetDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T19:32:47.051Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UserUpdateDto.cs",
-              "DocumentMoniker": "C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\DTO\\UserUpdateDto.cs",
-              "RelativeDocumentMoniker": "Models\\DTO\\UserUpdateDto.cs",
-              "ToolTip": "C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\DTO\\UserUpdateDto.cs",
-              "RelativeToolTip": "Models\\DTO\\UserUpdateDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T19:32:54.037Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UserCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\DTO\\UserCreateDto.cs",
-              "RelativeDocumentMoniker": "Models\\DTO\\UserCreateDto.cs",
-              "ToolTip": "C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\DTO\\UserCreateDto.cs",
-              "RelativeToolTip": "Models\\DTO\\UserCreateDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T19:32:28.192Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CategoryWithPrizesDto.cs",
-              "DocumentMoniker": "C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\DTO\\CategoryWithPrizesDto.cs",
-              "RelativeDocumentMoniker": "Models\\DTO\\CategoryWithPrizesDto.cs",
-              "ToolTip": "C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\DTO\\CategoryWithPrizesDto.cs",
-              "RelativeToolTip": "Models\\DTO\\CategoryWithPrizesDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T19:49:36.32Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CategoryGetDto.cs",
-              "DocumentMoniker": "C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\DTO\\CategoryGetDto.cs",
-              "RelativeDocumentMoniker": "Models\\DTO\\CategoryGetDto.cs",
-              "ToolTip": "C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\DTO\\CategoryGetDto.cs",
-              "RelativeToolTip": "Models\\DTO\\CategoryGetDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T19:43:18.434Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "PrizeUpdateDto.cs",
-              "DocumentMoniker": "C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\DTO\\PrizeUpdateDto.cs",
-              "RelativeDocumentMoniker": "Models\\DTO\\PrizeUpdateDto.cs",
-              "ToolTip": "C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\DTO\\PrizeUpdateDto.cs",
-              "RelativeToolTip": "Models\\DTO\\PrizeUpdateDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T19:42:31.68Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "PrizeGetPurchasersDto.cs",
-              "DocumentMoniker": "C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\DTO\\PrizeGetPurchasersDto.cs",
-              "RelativeDocumentMoniker": "Models\\DTO\\PrizeGetPurchasersDto.cs",
-              "ToolTip": "C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\DTO\\PrizeGetPurchasersDto.cs",
-              "RelativeToolTip": "Models\\DTO\\PrizeGetPurchasersDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T19:38:17.81Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "TicketGetDto.cs",
-              "DocumentMoniker": "C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\DTO\\TicketGetDto.cs",
-              "RelativeDocumentMoniker": "Models\\DTO\\TicketGetDto.cs",
-              "ToolTip": "C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\DTO\\TicketGetDto.cs",
-              "RelativeToolTip": "Models\\DTO\\TicketGetDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T19:35:23.648Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Models\\Category.cs",
               "ToolTip": "C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\Category.cs",
               "RelativeToolTip": "Models\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA4AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T14:20:39.097Z",
+              "WhenOpened": "2025-06-30T17:14:17.113Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Ticket.cs",
-              "DocumentMoniker": "C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\Ticket.cs",
-              "RelativeDocumentMoniker": "Models\\Ticket.cs",
-              "ToolTip": "C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\Ticket.cs",
-              "RelativeToolTip": "Models\\Ticket.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\AutoMapperProfile.cs",
+              "RelativeToolTip": "AutoMapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T19:22:10.686Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T14:08:35.504Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Prize.cs",
-              "DocumentMoniker": "C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\Prize.cs",
-              "RelativeDocumentMoniker": "Models\\Prize.cs",
-              "ToolTip": "C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\Prize.cs",
-              "RelativeToolTip": "Models\\Prize.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T19:22:07.363Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Donor.cs",
-              "DocumentMoniker": "C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\Donor.cs",
-              "RelativeDocumentMoniker": "Models\\Donor.cs",
-              "ToolTip": "C:\\Users\\Sarah\\Desktop\\chinese-auction-platform\\server\\Models\\Donor.cs",
-              "RelativeToolTip": "Models\\Donor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T19:22:03.397Z",
+              "WhenOpened": "2025-06-30T17:13:15.638Z",
               "EditorCaption": ""
             }
           ]

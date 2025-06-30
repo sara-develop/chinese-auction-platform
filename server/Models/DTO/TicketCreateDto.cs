@@ -1,4 +1,7 @@
 ﻿using System;
+using WebAPI_project.Models;
+using System.ComponentModel.DataAnnotations;
+
 
 public class TicketCreateDto
 {
