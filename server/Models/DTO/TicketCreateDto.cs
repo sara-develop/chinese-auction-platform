@@ -2,14 +2,16 @@
 using WebAPI_project.Models;
 using System.ComponentModel.DataAnnotations;
 
-
-public class TicketCreateDto
+namespace WebAPI_project.DTOs
 {
-    [Required]
-    public int PrizeId { get; set; }
+    public class TicketCreateDto
+    {
+        [Required]
+        public int PrizeId { get; set; }
 
-    [Required]
-    public int UserId { get; set; }
+        [Required]
+        public int UserId { get; set; }
 
-    public bool IsDraft { get; set; } = true;
+        public bool IsDraft { get; set; } = true;
+    }
 }

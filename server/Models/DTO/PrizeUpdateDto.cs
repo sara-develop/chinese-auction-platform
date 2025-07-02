@@ -1,13 +1,15 @@
 ﻿using System;
-
-public class PrizeUpdateDto
+namespace WebAPI_project.DTOs
 {
-    public int Id { get; set; } 
+    public class PrizeUpdateDto
+    {
+        public int Id { get; set; }
 
-    public string Name { get; set; }
+        public string Name { get; set; }
 
-    public int Price { get; set; }
+        public int Price { get; set; }
 
-    public int CategoryId { get; set; }
-    public int DonorId { get; set; }
+        public int CategoryId { get; set; }
+        public int DonorId { get; set; }
+    }
 }

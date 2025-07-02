@@ -1,7 +1,9 @@
 ﻿using System;
-
-public class CategoryGetDto
+namespace WebAPI_project.DTOs
 {
-    public int Id { get; set; }
-    public string Name { get; set; }
+    public class CategoryGetDto
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
+    }
 }

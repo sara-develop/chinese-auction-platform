@@ -1,9 +1,13 @@
-﻿using WebAPI_project.DTOs;
+﻿using WebAPI_project.Models;
+using WebAPI_project.DTOs;
 
-public interface ITicketService
+namespace WebAPI_project.Services
 {
-    Task<List<TicketGetDto>> GetAllAsync();
-    Task<TicketGetDto> GetByIdAsync(int id);
-    Task<int> CreateAsync(TicketCreateDto dto);
-    Task<bool> DeleteAsync(int id);
+    public interface ITicketService
+    {
+        Task<List<TicketGetDto>> GetAllAsync();
+        Task<TicketGetDto> GetByIdAsync(int id);
+        Task<int> CreateAsync(TicketCreateDto dto);
+        Task<bool> DeleteAsync(int id);
+    }
 }

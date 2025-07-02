@@ -1,13 +1,15 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
-
-public class DonorUpdateDto
+namespace WebAPI_project.DTOs
 {
-    [Required]
-    public string Name { get; set; }
+    public class DonorUpdateDto
+    {
+        [Required]
+        public string Name { get; set; }
 
-    [Required, EmailAddress]    
-    public string Email { get; set; }
+        [Required, EmailAddress]
+        public string Email { get; set; }
 
-    public List<int> PrizesId { get; set; } = new();
+        public List<int> PrizesId { get; set; } = new();
+    }
 }

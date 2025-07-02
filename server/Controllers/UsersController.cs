@@ -1,7 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Authorization;
+using System.Collections.Generic;
+using System.Threading.Tasks;
 using WebAPI_project.DTOs;
 using WebAPI_project.Services;
-using System.Threading.Tasks;
 
 namespace WebAPI_project.Controllers
 {
@@ -16,6 +18,8 @@ namespace WebAPI_project.Controllers
             _userService = userService;
         }
 
+        // GET api/users
+        [Authorize(Roles = "Manager")]
         [HttpGet]
         public async Task<ActionResult<List<UserGetDto>>> GetAll()
         {
@@ -23,6 +27,8 @@ namespace WebAPI_project.Controllers
             return Ok(users);
         }
 
+        // GET api/users/{id}
+        [Authorize(Roles = "Manager")]
         [HttpGet("{id}")]
         public async Task<ActionResult<UserGetDto>> Get(int id)
         {
@@ -31,6 +37,8 @@ namespace WebAPI_project.Controllers
             return Ok(user);
         }
 
+        // POST api/users
+        [Authorize(Roles = "Manager")]
         [HttpPost]
         public async Task<ActionResult> Create([FromBody] UserCreateDto dto)
         {
@@ -38,6 +46,8 @@ namespace WebAPI_project.Controllers
             return CreatedAtAction(nameof(Get), new { id }, null);
         }
 
+        // PUT api/users/{id}
+        [Authorize(Roles = "Manager")]
         [HttpPut("{id}")]
         public async Task<ActionResult> Update(int id, [FromBody] UserUpdateDto dto)
         {
@@ -46,6 +56,8 @@ namespace WebAPI_project.Controllers
             return NoContent();
         }
 
+        // DELETE api/users/{id}
+        [Authorize(Roles = "Manager")]
         [HttpDelete("{id}")]
         public async Task<ActionResult> Delete(int id)
         {

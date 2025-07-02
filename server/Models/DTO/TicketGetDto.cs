@@ -1,21 +1,24 @@
 ﻿using System;
 
-public class TicketGetDto
+namespace WebAPI_project.DTOs
 {
-    public int Id { get; set; }
-    public DateTime PurchaseDate { get; set; }
+    public class TicketGetDto
+    {
+        public int Id { get; set; }
+        public DateTime PurchaseDate { get; set; }
 
-    public bool IsDraft { get; set; }
+        public bool IsDraft { get; set; }
 
-    // פרטי המתנה
-    public int PrizeId { get; set; }
-    public string PrizeName { get; set; }
-    public int PrizePrice { get; set; }
+        // פרטי המתנה
+        public int PrizeId { get; set; }
+        public string PrizeName { get; set; }
+        public int PrizePrice { get; set; }
 
-    // פרטי המשתמש
-    public int UserId { get; set; }
-    public string UserName { get; set; }
-    public string UserEmail { get; set; }
+        // פרטי המשתמש
+        public int UserId { get; set; }
+        public string UserName { get; set; }
+        public string UserEmail { get; set; }
+    }
 }
 
 

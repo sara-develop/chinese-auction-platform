@@ -1,10 +1,12 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
 
-
-public class CategoryCreateDto
+namespace WebAPI_project.DTOs
 {
-    [Required]
-    public string Name { get; set; } 
+    public class CategoryCreateDto
+    {
+        [Required]
+        public string Name { get; set; }
+    }
 }
 

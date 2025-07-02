@@ -1,10 +1,15 @@
-﻿using WebAPI_project.DTOs;
+﻿using WebAPI_project.Models;
+using WebAPI_project.DTOs;
 
-public interface IUserService
+namespace WebAPI_project.Services
 {
-    Task<List<UserGetDto>> GetAllAsync();
-    Task<UserGetDto> GetByIdAsync(int id);
-    Task<int> CreateAsync(UserCreateDto dto);
-    Task<bool> UpdateAsync(int id, UserUpdateDto dto);
-    Task<bool> DeleteAsync(int id);
+    public interface IUserService
+    {
+        Task<User> AuthenticateAsync(string email, string password);
+        Task<List<UserGetDto>> GetAllAsync();
+        Task<UserGetDto> GetByIdAsync(int id);
+        Task<int> CreateAsync(UserCreateDto dto);
+        Task<bool> UpdateAsync(int id, UserUpdateDto dto);
+        Task<bool> DeleteAsync(int id);
+    }
 }

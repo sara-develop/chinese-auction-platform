@@ -1,8 +1,12 @@
 ﻿using System;
+using WebAPI_project.Models;
 
-public class CategoryWithPrizesDto
+namespace WebAPI_project.DTOs
 {
-    public int Id { get; set; }
-    public string Name { get; set; }
-    public List<PrizeGetDto> Prizes { get; set; } = new();
+    public class CategoryWithPrizesDto
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public List<PrizeGetDto> Prizes { get; set; } = new();
+    }
 }

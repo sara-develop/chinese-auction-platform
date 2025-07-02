@@ -1,10 +1,13 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
 
-public class CategoryUpdateDto
+namespace WebAPI_project.DTOs
 {
-    [Required]
-    public string Name { get; set; }
+    public class CategoryUpdateDto
+    {
+        [Required]
+        public string Name { get; set; }
 
-	public List<int> PrizesId { get; set; }	
+        public List<int> PrizesId { get; set; }
+    }
 }
