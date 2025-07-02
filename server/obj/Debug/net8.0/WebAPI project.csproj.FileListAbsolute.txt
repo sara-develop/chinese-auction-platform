@@ -1,0 +1,8 @@
+C:\יעלי\לימודים יד\API\chinese-auction-platform\server\obj\Debug\net8.0\WebAPI project.csproj.AssemblyReference.cache
+C:\יעלי\לימודים יד\API\chinese-auction-platform\server\obj\Debug\net8.0\WebAPI project.GeneratedMSBuildEditorConfig.editorconfig
+C:\יעלי\לימודים יד\API\chinese-auction-platform\server\obj\Debug\net8.0\WebAPI project.AssemblyInfoInputs.cache
+C:\יעלי\לימודים יד\API\chinese-auction-platform\server\obj\Debug\net8.0\WebAPI project.AssemblyInfo.cs
+C:\יעלי\לימודים יד\API\chinese-auction-platform\server\obj\Debug\net8.0\WebAPI project.csproj.CoreCompileInputs.cache
+C:\יעלי\לימודים יד\API\chinese-auction-platform\server\obj\Debug\net8.0\WebAPI project.MvcApplicationPartsAssemblyInfo.cs
+C:\יעלי\לימודים יד\API\chinese-auction-platform\server\obj\Debug\net8.0\WebAPI project.MvcApplicationPartsAssemblyInfo.cache
+C:\יעלי\לימודים יד\API\chinese-auction-platform\server\obj\Debug\net8.0\WebAPI project.sourcelink.json

@@ -1,10 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\server",
-    "\\server\\Models",
-    "\\server\\Models\\DTO"
+    ""
   ],
-  "SelectedNode": "\\server",
+  "SelectedNode": "\\WebAPI project.sln",
   "PreviewInSolutionExplorer": false
 }
