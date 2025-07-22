@@ -63,8 +63,7 @@
               "RelativeToolTip": "Models\\DTO\\PrizeGetPurchasersDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T21:27:08.75Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-02T21:27:08.75Z"
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "Models\\DTO\\PrizeGetDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T21:27:08.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-02T21:27:08.011Z"
             },
             {
               "$type": "Document",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "Models\\DTO\\PrizeCreateDto.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAcwBMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T21:27:06.986Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-02T21:27:06.986Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-02T20:38:36.606Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-02T20:38:36.606Z"
             },
             {
               "$type": "Document",
@@ -115,8 +111,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAFkAAAAAAAAAAAAAAG8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T20:32:42.597Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-02T20:32:42.597Z"
             }
           ]
         }
