@@ -1,3 +1,10 @@
 import { Routes } from '@angular/router';
 
-export const routes: Routes = [];
+import { LoginComponent } from './auth/login/login.component';
+
+// app-routing.module.ts
+export const routes: Routes = [
+  { path: 'login', component: LoginComponent },
+  { path: 'app', loadComponent: () => import('../app/app.component').then(a => a.AppComponent) },
+  { path: '**', redirectTo: 'login' }
+];
